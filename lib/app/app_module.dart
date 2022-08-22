@@ -1,4 +1,5 @@
-import 'package:alunos_ifpi/app/auth/pages/login/login_page.dart';
+
+import 'package:alunos_ifpi/app/modules/auth/pages/login/login_page.dart';
 import 'package:flutter_modular/flutter_modular.dart';
 
 class AppModule extends Module{
